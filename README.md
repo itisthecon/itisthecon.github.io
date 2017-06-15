@@ -1,2 +1,2 @@
-Welcome to ken's doc site!
+Welcome to ken's doc site
 ===================
